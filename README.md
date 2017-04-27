@@ -1,2 +1,3 @@
 # asignacion
-Primera asignacion fundamentos de android 
+Promera asignacion fundamentos Android
+Un tal Gabriel
