@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Asignation UntalGabriel</string>
-    <string name="Bienvenidos">Welcome</string>
-    <string name="BottonEntrar">Enter</string>
+    <string name="app_name">Asignacion UntalGabriel</string>
+    <string name="Bienvenidos">Bienvenido</string>
+    <string name="BottonEntrar">Entrar</string>
 </resources>
